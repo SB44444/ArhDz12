@@ -58,7 +58,7 @@ paths:
             application/json:
               schema:
                 $ref: "#components/schemas/order"
-           dell:
+           delete:
         summary: Метод удаления заказа
           item
       operertionId: getAllorders
